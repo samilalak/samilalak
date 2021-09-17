@@ -1,0 +1,9 @@
+- 👋 Hi, කොහොමද
+- 👀 ඒක සුපිරි ...
+- 🌱 මේ වෙලාවෙ ටිකක් බිසී ...
+- 💞️ ආදරේ ගෙනනම් කතා කරන්න එපා ......
+
+<!---
+samilalak/samilalak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
